@@ -1,2 +1,1 @@
-# REPOSITORY-1
-pemula
+Template untuk Birthday Website, menggunakan HTML, CSS, dan sedikit JS
